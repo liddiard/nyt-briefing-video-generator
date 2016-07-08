@@ -1,0 +1,12 @@
+{
+  "headline": String,
+  "byline": String,
+  "date": Date,
+  "briefs": [
+    {
+      "title": String,
+      "sentences": [String],
+      "photos": [String]
+    }
+  ]
+}

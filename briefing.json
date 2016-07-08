@@ -1,0 +1,81 @@
+{
+  "headline": "Boris Johnson, Istanbul, Michael Phelps: Your Thursday Briefing",
+  "byline": "By ADEEL HASSAN",
+  "date": "Fri Jul 01 2016 10:35:04 GMT-0400 (EDT)",
+  "briefs": [
+    {
+      "title": "Britain’s political chaos deepens.",
+      "sentences": [
+        "Boris Johnson, one of the “Brexit” campaign’s most prominent faces, announced today that he wouldn’t seek the leadership of the governing Conservative Party, effectively taking him out of the race to be prime minister.",
+        "After Britain’s vote to leave the European Union, the bloc’s remaining 27 leaders are faced with the crucial question of which functions should be returned to individual nations and which should fall to the powers of the union.",
+        "They agree that the group needs to change the perception that it is undemocratic.",
+        "Interactive Feature | Local Weather Today’s Weather"
+      ],
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        null,
+        "https://cdn1.nyt.com/images/2016/06/30/world/30europe-web1/30europe-web1-superJumbo.jpg",
+        "https://cdn1.nyt.com/images/2016/06/30/world/30int-brexit-web/30int-brexit-web-superJumbo.jpg"
+      ]
+    },
+    {
+      "title": "The aftermath in Turkey.",
+      "sentences": [
+        "The authorities carried out raids on suspected Islamic State hide-outs in Istanbul today, after a terrorist attack at the city’s main airport on Tuesday killed dozens of people and wounded more than 200.",
+        "The country has served as a base for the militant group for years, possibly insulating it from attacks",
+        "But Turkey tightened its borders last year and allowed the U.S",
+        "to use its air bases for missions in Syria and Iraq.",
+        "The attacks, and the influx of refugees, show how Syria’s civil war has destabilized neighboring countries."
+      ],
+      "images": [
+        null,
+        "https://cdn1.nyt.com/images/2016/06/30/world/30islamicstate-web/30islamicstate-web-superJumbo.jpg",
+        "https://cdn1.nyt.com/images/2016/06/30/world/30int-threats-web2/30int-threats-web2-superJumbo.jpg",
+        "https://cdn1.nyt.com/images/2016/06/30/world/30islamicstate-web/30islamicstate-web-superJumbo.jpg"
+      ]
+    },
+    {
+      "title": "On the campaign trail.",
+      "sentences": [
+        "Donald J",
+        "Trump will reiterate his stance on trade today in New Hampshire",
+        "We’ve learned that he lent his name in 2005 to a venture, the Trump Institute, that offered get-rich strategies using plagiarized lessons.",
+        "A longtime aide to Hillary Clinton — who testified about the candidate’s use of a private email server — said that the former secretary of state wanted to protect her personal information, according to a deposition",
+        "Mrs",
+        "Clinton has said that the use of the server was simply a matter of convenience."
+      ],
+      "images": [
+        "https://cdn1.nyt.com/images/2016/06/29/us/30PLAGIARISMweb1/30PLAGIARISMweb1-superJumbo.jpg",
+        "https://cdn1.nyt.com/images/2016/06/30/us/30emails/30emails-superJumbo.jpg",
+        "https://cdn1.nyt.com/images/2016/06/29/us/30TRUMPSTANCEweb1/30TRUMPSTANCEweb1-superJumbo.jpg"
+      ]
+    },
+    {
+      "title": "Inside Congress.",
+      "sentences": [
+        "House Democrats hosted 40 events across the country on Wednesday to push for gun control, trying to maintain the momentum created by their sit-in last week, after the massacre in Orlando, Fla",
+        "Some Republicans appear willing to support the cause.",
+        "In the Senate, a debt-relief measure for Puerto Rico passed and is headed to the desk of President Obama, who is expected to sign it",
+        "Bernie Sanders was back on Capitol Hill, eager to expand his left-leaning campaign."
+      ],
+      "images": [
+        "https://cdn1.nyt.com/images/2016/06/29/us/29hulse1/29hulse1-superJumbo.jpg",
+        "https://cdn1.nyt.com/images/2016/06/30/us/30bernie/30bernie-superJumbo.jpg",
+        "https://cdn1.nyt.com/images/2016/06/30/us/30guns1/30guns1-superJumbo.jpg",
+        "https://cdn1.nyt.com/images/2016/06/30/business/30PUERTORICO/30PUERTORICO-superJumbo.jpg"
+      ]
+    },
+    {
+      "title": "An education fiasco.",
+      "sentences": [
+        "Detroit turned to charter schools to improve education and now has a bigger share of students in charter schools than any American city except New Orleans, which turned almost all of its schools into charters after Hurricane Katrina.",
+        "But half of Detroit’s charters perform only as well, or worse than, its traditional public schools.",
+        "Interactive Feature | Get the Morning Briefing by Email What you need to know to start your day, delivered to your inbox Monday through Friday."
+      ],
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://cdn1.nyt.com/images/2016/06/29/us/29detroit10/29detroit10-superJumbo.jpg"
+      ]
+    }
+  ]
+}
