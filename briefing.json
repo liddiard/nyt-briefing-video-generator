@@ -1,81 +1,253 @@
 {
-  "headline": "Boris Johnson, Istanbul, Michael Phelps: Your Thursday Briefing",
-  "byline": "By ADEEL HASSAN",
-  "date": "Fri Jul 01 2016 10:35:04 GMT-0400 (EDT)",
+  "headline": "Dallas, Donald Trump, Euro 2016: Your Friday Briefing",
+  "byline": "By SEAN ALFANO",
+  "date": "Fri Jul 08 2016 17:32:20 GMT-0400 (EDT)",
   "briefs": [
     {
-      "title": "Britain’s political chaos deepens.",
+      "title": "Five officers killed in Dallas.",
       "sentences": [
-        "Boris Johnson, one of the “Brexit” campaign’s most prominent faces, announced today that he wouldn’t seek the leadership of the governing Conservative Party, effectively taking him out of the race to be prime minister.",
-        "After Britain’s vote to leave the European Union, the bloc’s remaining 27 leaders are faced with the crucial question of which functions should be returned to individual nations and which should fall to the powers of the union.",
-        "They agree that the group needs to change the perception that it is undemocratic.",
-        "Interactive Feature | Local Weather Today’s Weather"
+        {
+          "text": "Details are still emerging after a sniper attack during a demonstration against the police shootings of black men in Minnesota and Louisiana.",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "The latest developments:",
+          "media": []
+        },
+        {
+          "text": "• At least five officers are dead and seven others wounded",
+          "media": []
+        },
+        {
+          "text": "Two civilians were also injured.",
+          "media": []
+        },
+        {
+          "text": "• The police now say at least one sniper carried out the shootings in Dallas",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "This is how it unfolded.",
+          "media": []
+        },
+        {
+          "text": "• One suspect, identified as Micah Johnson, 25, was killed after a standoff in a garage with a robot-controlled bomb, and said he wanted to kill white officers, the police said.",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "• Three other people are in police custody.",
+          "media": []
+        },
+        {
+          "text": "• President Obama described the attack as “vicious” and “despicable.”",
+          "media": []
+        },
+        {
+          "text": "Check back for updates.",
+          "media": []
+        },
+        {
+          "text": "Interactive Feature | Local Weather Today’s Weather",
+          "media": []
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Bearing witness to horror.",
+      "sentences": [
+        {
+          "text": "“Please don’t tell me my boyfriend’s gone!” A woman’s haunting narration, streamed live on Facebook, after an officer fatally shot a black motorist in a St",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "Paul suburb is being applauded by critics of the police who are urging that all interactions with officers be recorded.",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "Protests are continuing in St",
+          "media": []
+        },
+        {
+          "text": "Paul and the police have identified the officer involved in the shooting",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "President Obama called the deaths in Minnesota and Louisiana “symptomatic” of racial disparities in the criminal justice system",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "We look at the unease felt by black owners of legal guns.",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        }
       ],
       "images": [
-        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-        null,
-        "https://cdn1.nyt.com/images/2016/06/30/world/30europe-web1/30europe-web1-superJumbo.jpg",
-        "https://cdn1.nyt.com/images/2016/06/30/world/30int-brexit-web/30int-brexit-web-superJumbo.jpg"
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
       ]
     },
     {
-      "title": "The aftermath in Turkey.",
+      "title": "Rough week for candidates ends.",
       "sentences": [
-        "The authorities carried out raids on suspected Islamic State hide-outs in Istanbul today, after a terrorist attack at the city’s main airport on Tuesday killed dozens of people and wounded more than 200.",
-        "The country has served as a base for the militant group for years, possibly insulating it from attacks",
-        "But Turkey tightened its borders last year and allowed the U.S",
-        "to use its air bases for missions in Syria and Iraq.",
-        "The attacks, and the influx of refugees, show how Syria’s civil war has destabilized neighboring countries."
+        {
+          "text": "Hillary Clinton heads into the weekend with the investigation into her emails closed and the likelihood that her Democratic primary opponent Senator Bernie Sanders will soon endorse her",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "Mrs",
+          "media": []
+        },
+        {
+          "text": "Clinton and Donald J",
+          "media": []
+        },
+        {
+          "text": "Trump both canceled campaign events today because of the Dallas shootings.",
+          "media": [
+            {
+              "type": "image"
+            },
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "Mr",
+          "media": []
+        },
+        {
+          "text": "Trump held a tense meeting with Senate Republicans on Thursday, and some skeptics of his candidacy wonder if he’ll quit if he’s victorious in November.",
+          "media": [
+            {
+              "type": "image"
+            },
+            {
+              "type": "video"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "F.B.I. director weathers criticism.",
+      "sentences": [
+        {
+          "text": "James B",
+          "media": []
+        },
+        {
+          "text": "Comey Jr",
+          "media": []
+        },
+        {
+          "text": "defended his decision to a House panel not to recommend charges against Hillary Clinton, but the panel’s leading Republican indicated that scrutiny of Mrs",
+          "media": []
+        },
+        {
+          "text": "Clinton’s emails would continue.",
+          "media": []
+        }
+      ],
+      "images": []
+    },
+    {
+      "title": "Britain’s political future.",
+      "sentences": [
+        {
+          "text": "The race for leadership of the Conservative Party is down to Theresa May and Andrea Leadsom, and the winner will become the first female prime minister since Margaret Thatcher stepped down in 1990",
+          "media": [
+            {
+              "type": "video"
+            }
+          ]
+        },
+        {
+          "text": "The contest will conclude in September.",
+          "media": []
+        },
+        {
+          "text": "Ms",
+          "media": []
+        },
+        {
+          "text": "May quietly supported staying in the European Union, while Ms",
+          "media": []
+        },
+        {
+          "text": "Leadsom was a vocal backer of the “Brexit” movement",
+          "media": []
+        },
+        {
+          "text": "We take a closer look at the  clique of the governing elite who led Britain into the crisis.",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        }
       ],
       "images": [
-        null,
-        "https://cdn1.nyt.com/images/2016/06/30/world/30islamicstate-web/30islamicstate-web-superJumbo.jpg",
-        "https://cdn1.nyt.com/images/2016/06/30/world/30int-threats-web2/30int-threats-web2-superJumbo.jpg",
-        "https://cdn1.nyt.com/images/2016/06/30/world/30islamicstate-web/30islamicstate-web-superJumbo.jpg"
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
       ]
     },
     {
-      "title": "On the campaign trail.",
+      "title": "Colleges hunt for revenue.",
       "sentences": [
-        "Donald J",
-        "Trump will reiterate his stance on trade today in New Hampshire",
-        "We’ve learned that he lent his name in 2005 to a venture, the Trump Institute, that offered get-rich strategies using plagiarized lessons.",
-        "A longtime aide to Hillary Clinton — who testified about the candidate’s use of a private email server — said that the former secretary of state wanted to protect her personal information, according to a deposition",
-        "Mrs",
-        "Clinton has said that the use of the server was simply a matter of convenience."
+        {
+          "text": "Public universities are increasingly chasing out-of-state applicants in an effort to land students who will pay higher tuition.",
+          "media": [
+            {
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "text": "A coming study indicates that this practice will lead to fewer minority and low-income students’ being admitted.",
+          "media": []
+        },
+        {
+          "text": "Interactive Feature | Get the Morning Briefing by Email What you need to know to start your day, delivered to your inbox Monday through Friday.",
+          "media": []
+        }
       ],
-      "images": [
-        "https://cdn1.nyt.com/images/2016/06/29/us/30PLAGIARISMweb1/30PLAGIARISMweb1-superJumbo.jpg",
-        "https://cdn1.nyt.com/images/2016/06/30/us/30emails/30emails-superJumbo.jpg",
-        "https://cdn1.nyt.com/images/2016/06/29/us/30TRUMPSTANCEweb1/30TRUMPSTANCEweb1-superJumbo.jpg"
-      ]
-    },
-    {
-      "title": "Inside Congress.",
-      "sentences": [
-        "House Democrats hosted 40 events across the country on Wednesday to push for gun control, trying to maintain the momentum created by their sit-in last week, after the massacre in Orlando, Fla",
-        "Some Republicans appear willing to support the cause.",
-        "In the Senate, a debt-relief measure for Puerto Rico passed and is headed to the desk of President Obama, who is expected to sign it",
-        "Bernie Sanders was back on Capitol Hill, eager to expand his left-leaning campaign."
-      ],
-      "images": [
-        "https://cdn1.nyt.com/images/2016/06/29/us/29hulse1/29hulse1-superJumbo.jpg",
-        "https://cdn1.nyt.com/images/2016/06/30/us/30bernie/30bernie-superJumbo.jpg",
-        "https://cdn1.nyt.com/images/2016/06/30/us/30guns1/30guns1-superJumbo.jpg",
-        "https://cdn1.nyt.com/images/2016/06/30/business/30PUERTORICO/30PUERTORICO-superJumbo.jpg"
-      ]
-    },
-    {
-      "title": "An education fiasco.",
-      "sentences": [
-        "Detroit turned to charter schools to improve education and now has a bigger share of students in charter schools than any American city except New Orleans, which turned almost all of its schools into charters after Hurricane Katrina.",
-        "But half of Detroit’s charters perform only as well, or worse than, its traditional public schools.",
-        "Interactive Feature | Get the Morning Briefing by Email What you need to know to start your day, delivered to your inbox Monday through Friday."
-      ],
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-        "https://cdn1.nyt.com/images/2016/06/29/us/29detroit10/29detroit10-superJumbo.jpg"
-      ]
+      "images": []
     }
   ]
 }
